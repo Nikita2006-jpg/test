@@ -1,0 +1,11 @@
+﻿namespace  hello
+{
+class Program
+{
+Static  void Main(string[] args)
+{
+Console.WriteLine(“Hello nikerts!”);
+Console.ReadKey();
+}
+}
+}
